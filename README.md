@@ -94,8 +94,8 @@ Note: You can find a list of version numbers for the python packages that have b
 2. Create a `testing` folder with a 'test_input' subfolder where you will add your images.
 
 3. Get access to the trained model on the custom dataset or train your own model using the piece_detection/train script by modyfing it to your needs.
-
-4. Run the detect.py script. Results will be saved in "testing/test_output" and a UI pygame app will be launched per image enabling you to generate FEN and navigate to Lichess.
+4. Get access to the model for board detection
+5. Run the detect.py script. Results will be saved in "testing/test_output" and a UI pygame app will be launched per image enabling you to generate FEN and navigate to Lichess.
 
 ## Contributing
 
